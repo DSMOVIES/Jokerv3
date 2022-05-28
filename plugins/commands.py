@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/DSGAMERDS')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('Contact Me!', url='https//t.me/Dominic_Saviyo_Chowara'),
+            InlineKeyboardButton('Contact Me!', url='https://t.me/Dominic_Saviyo_Chowara'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('🔔 SUBSCᏒIBΞ  🔔', url='https://youtube.com/channel/UCrTlos4rDPAaBtqMlfjbbnA')
@@ -89,7 +89,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/DSGAMERDS')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('Contact Me!', url='https//t.me/Dominic_Saviyo_Chowara'),
+            InlineKeyboardButton('Contact Me!', url='https://t.me/Dominic_Saviyo_Chowara'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('🔔 SUBSCᏒIBΞ  🔔', url='https://youtube.com/channel/UCrTlos4rDPAaBtqMlfjbbnA')
